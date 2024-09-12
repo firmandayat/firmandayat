@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="gambar" />
+
 ## 💫 About Me
 Hello 👋, I'm Firman Hidayatullah<br><br>I have a deep interest in Website Development. Actively participating in scholarships from Dicoding and Codepolitan, which provide access to training and professional certifications in programming. Striving to expand my knowledge by learning the latest technologies<br><br>
 
