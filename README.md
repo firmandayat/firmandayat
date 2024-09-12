@@ -1,8 +1,14 @@
 # 💫 About Me:
-Hello 👋, I'm Firman Hidayatullah<br><br>I have a deep interest in Website Development. Actively participating in scholarships from Dicoding and Codepolitan, which provide access to training and professional certifications in programming. Striving to expand my knowledge by learning the latest technologies<br><br>🌱 <strong><h1>I'm currently learning</h1></strong>-  Javascript<br>  -  PHP<br>  -  Python<br>  -  Laravel<br>  -  Nodejs<br>  -  Vuejs<br>  -  Cloud Computing<br><br>🎯 I'm currently targeting<br>  -  Fullstack Developer<br>  -  WEB Development
+Hello 👋, I'm Firman Hidayatullah<br><br>I have a deep interest in Website Development. Actively participating in scholarships from Dicoding and Codepolitan, which provide access to training and professional certifications in programming. Striving to expand my knowledge by learning the latest technologies<br><br>
+
+# 🌱 I'm currently learning
+-  Javascript<br>  -  PHP<br>  -  Python<br>  -  Laravel<br>  -  Nodejs<br>  -  Vuejs<br>  -  Cloud Computing<br><br>
+
+# 🎯 I'm currently targeting
+  -  Fullstack Developer<br>  -  WEB Development
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/firmandyt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firmanhidayatullah) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@firman.txt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@firmandyt) 
 
 # 💻 Tech Stack:
