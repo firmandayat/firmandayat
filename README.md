@@ -2,7 +2,13 @@
 Hello 👋, I'm Firman Hidayatullah<br><br>I have a deep interest in Website Development. Actively participating in scholarships from Dicoding and Codepolitan, which provide access to training and professional certifications in programming. Striving to expand my knowledge by learning the latest technologies<br><br>
 
 # 🌱 I'm currently learning
--  Javascript<br>  -  PHP<br>  -  Python<br>  -  Laravel<br>  -  Nodejs<br>  -  Vuejs<br>  -  Cloud Computing<br><br>
+-  Javascript
+-  PHP
+-  Python
+-  Laravel
+-  Nodejs
+-  Vuejs
+-  Cloud Computing
 
 # 🎯 I'm currently targeting
   -  Fullstack Developer
