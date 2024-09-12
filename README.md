@@ -5,7 +5,8 @@ Hello 👋, I'm Firman Hidayatullah<br><br>I have a deep interest in Website Dev
 -  Javascript<br>  -  PHP<br>  -  Python<br>  -  Laravel<br>  -  Nodejs<br>  -  Vuejs<br>  -  Cloud Computing<br><br>
 
 # 🎯 I'm currently targeting
-  -  Fullstack Developer<br>  -  WEB Development
+  -  Fullstack Developer
+  -  WEB Development
 
 
 # 🌐 Socials:
