@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, vueJS, nodeJS, Python**
 
-- 👯 I’m looking to collaborate on [Expert System](ai.firmandyt.my.id)
+- 👯 I’m looking to collaborate on [Expert System](https://ai.firmandyt.my.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
