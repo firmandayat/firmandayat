@@ -9,6 +9,7 @@ Hello 👋, I'm Firman Hidayatullah<br><br>I have a deep interest in Website Dev
 -  Python
 -  Laravel
 -  Nodejs
+-  React
 -  Vuejs
 -  Cloud Computing<br><br>
 
